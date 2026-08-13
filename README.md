@@ -130,10 +130,11 @@
   </a>
 </p>
 
-- LinkedIn: `https://www.linkedin.com/in/jeet-gandhi-dev/`
-- Portfolio: `Coming Soon`
-- Email: 'jeetgandhi121005@gmail.com'
+### 📫 Connect With Me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeet-gandhi-dev/)
+- 🌐 Portfolio: Coming Soon
+- 📧 [Email Me](mailto:jeetgandhi121005@gmail.com)
 ---
 
 <div align="center">
