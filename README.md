@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="./assets/developer-illustration.svg" alt="Developer illustration showing web application code and database layers" width="330">
+      <img src="./assets/developer.gif" alt="Jeet Gandhi developer illustration" width="330">
     </td>
   </tr>
 </table>
