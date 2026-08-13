@@ -88,21 +88,21 @@
       <p><strong>Hospital Management System</strong></p>
       <p>A hospital management system designed to manage hospital-related workflows and user modules such as administration, doctors, patients, and appointments.</p>
       <p><strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript, XAMPP</p>
-      <p><strong>Repository:</strong> REPOSITORY_URL_HERE</p>
+      <p><strong>Repository:</strong> https://github.com/Jeetgandhi121005/Salvex</p>
     </td>
     <td width="33%">
       <h3>ConnectFarma</h3>
       <p><strong>Local Farmers Marketplace</strong></p>
       <p>A platform connecting farmers and customers through an online marketplace for agricultural products.</p>
       <p><strong>Tech:</strong> Python, Django, MySQL/SQLite, HTML, CSS, JavaScript</p>
-      <p><strong>Repository:</strong> REPOSITORY_URL_HERE</p>
+      <p><strong>Repository:</strong> https://github.com/Jeetgandhi121005/Connect_Farma</p>
     </td>
     <td width="33%">
       <h3>EchoVerse</h3>
       <p><strong>Music-focused Application</strong></p>
       <p>A music listening and creation platform concept exploring smart music features and AI-assisted functionality.</p>
       <p><strong>Focus:</strong> AI, Music, Web Application Concept</p>
-      <p><strong>Repository:</strong> REPOSITORY_URL_HERE</p>
+      <p><strong>Repository:</strong> https://github.com/Jeetgandhi121005/Echoverse</p>
     </td>
   </tr>
 </table>
@@ -130,9 +130,9 @@
   </a>
 </p>
 
-- LinkedIn: `YOUR_LINKEDIN_URL`
+- LinkedIn: `www.linkedin.com/in/jeet-gandhi-dev`
 - Portfolio: `YOUR_PORTFOLIO_URL`
-- Email: `YOUR_EMAIL`
+- Email: 'jeetgandhi121005@gmail.com'
 
 ---
 
