@@ -130,8 +130,8 @@
   </a>
 </p>
 
-- LinkedIn: `www.linkedin.com/in/jeet-gandhi-dev`
-- Portfolio: `YOUR_PORTFOLIO_URL`
+- LinkedIn: `https://www.linkedin.com/in/jeet-gandhi-dev/`
+- Portfolio: `Coming Soon`
 - Email: 'jeetgandhi121005@gmail.com'
 
 ---
