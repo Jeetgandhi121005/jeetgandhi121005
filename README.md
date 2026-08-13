@@ -2,25 +2,34 @@
 
 ![Jeet Gandhi - BCA Student and Full-Stack Web Developer](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:22C55E&height=180&section=header&text=Jeet%20Gandhi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer%20%7C%20Software%20Developer&descAlignY=55&descSize=16)
 
-### Hi, I'm Jeet Gandhi
-
-**BCA Student | Full-Stack Web Developer | Building Practical Web Applications**
-
-I enjoy building useful, database-driven web applications and improving my skills across frontend, backend, and modern software development.
-
 [![GitHub](https://img.shields.io/badge/GitHub-Jeetgandhi121005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeetgandhi121005)
 ![Location](https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Jeetgandhi121005&style=for-the-badge&color=0EA5E9&label=Profile+Views)
 
 </div>
 
 ---
 
-## About Me
-
-- I am a **BCA student** from **Ahmedabad, Gujarat, India**.
-- I work with **HTML, CSS, JavaScript, PHP, Python, Django, and MySQL**.
-- I like creating practical full-stack projects with clear user flows and database-backed functionality.
-- I am interested in backend development, AI-related technologies, and learning modern development tools.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>Building Practical Web Applications</h2>
+      <p>
+        I enjoy creating useful, database-driven web applications and improving my skills across frontend, backend, and modern software development.
+      </p>
+      <h3>About Me</h3>
+      <ul>
+        <li>I am a <strong>BCA student at JG University from Ahmedabad, Gujarat, India.</strong></li>
+        <li>I work with <strong>HTML, CSS, JavaScript, PHP, Python, Django, and MySQL</strong>.</li>
+        <li>I like building practical projects with clear user flows and database-backed functionality.</li>
+        <li>I am interested in backend development, AI-related technologies, and learning modern development tools.</li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="./assets/developer-illustration.svg" alt="Developer illustration showing web application code and database layers" width="330">
+    </td>
+  </tr>
+</table>
 
 ---
 

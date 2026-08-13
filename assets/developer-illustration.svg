@@ -1,0 +1,38 @@
+<svg width="720" height="520" viewBox="0 0 720 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Developer workspace illustration</title>
+  <desc id="desc">A clean illustration of a web application dashboard, code panel, database stack, and connected interface elements.</desc>
+  <rect width="720" height="520" rx="36" fill="#F8FAFC"/>
+  <circle cx="573" cy="106" r="72" fill="#DCFCE7"/>
+  <circle cx="133" cy="408" r="88" fill="#DBEAFE"/>
+  <rect x="88" y="96" width="404" height="276" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="6"/>
+  <rect x="114" y="124" width="354" height="38" rx="10" fill="#EFF6FF"/>
+  <circle cx="136" cy="143" r="7" fill="#EF4444"/>
+  <circle cx="160" cy="143" r="7" fill="#F59E0B"/>
+  <circle cx="184" cy="143" r="7" fill="#22C55E"/>
+  <rect x="124" y="195" width="152" height="18" rx="9" fill="#BFDBFE"/>
+  <rect x="124" y="234" width="298" height="14" rx="7" fill="#E2E8F0"/>
+  <rect x="124" y="264" width="248" height="14" rx="7" fill="#E2E8F0"/>
+  <rect x="124" y="294" width="286" height="14" rx="7" fill="#E2E8F0"/>
+  <rect x="124" y="324" width="196" height="14" rx="7" fill="#E2E8F0"/>
+  <rect x="330" y="186" width="106" height="92" rx="16" fill="#ECFDF5" stroke="#86EFAC" stroke-width="5"/>
+  <path d="M357 232H409" stroke="#16A34A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M383 206V258" stroke="#16A34A" stroke-width="10" stroke-linecap="round"/>
+  <rect x="430" y="324" width="202" height="96" rx="18" fill="#0F172A"/>
+  <path d="M461 357L489 380L461 403" stroke="#38BDF8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M602 357L574 380L602 403" stroke="#34D399" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M520 410L548 350" stroke="#FBBF24" stroke-width="12" stroke-linecap="round"/>
+  <rect x="466" y="71" width="150" height="72" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="5"/>
+  <rect x="494" y="92" width="94" height="10" rx="5" fill="#93C5FD"/>
+  <rect x="494" y="116" width="66" height="10" rx="5" fill="#C4B5FD"/>
+  <rect x="525" y="204" width="112" height="92" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="5"/>
+  <ellipse cx="581" cy="222" rx="56" ry="19" fill="#DBEAFE"/>
+  <path d="M525 222C525 211.5 550.1 203 581 203C611.9 203 637 211.5 637 222V278C637 288.5 611.9 297 581 297C550.1 297 525 288.5 525 278V222Z" fill="#EFF6FF" stroke="#60A5FA" stroke-width="5"/>
+  <path d="M525 250C525 260.5 550.1 269 581 269C611.9 269 637 260.5 637 250" stroke="#60A5FA" stroke-width="5"/>
+  <path d="M525 222C525 232.5 550.1 241 581 241C611.9 241 637 232.5 637 222" stroke="#60A5FA" stroke-width="5"/>
+  <path d="M484 155C511 165 523 182 535 204" stroke="#CBD5E1" stroke-width="5" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M493 332C507 317 524 306 546 296" stroke="#CBD5E1" stroke-width="5" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <rect x="156" y="392" width="260" height="52" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="5"/>
+  <rect x="186" y="410" width="72" height="14" rx="7" fill="#22C55E"/>
+  <rect x="278" y="410" width="104" height="14" rx="7" fill="#93C5FD"/>
+  <path d="M80 446H640" stroke="#334155" stroke-width="8" stroke-linecap="round"/>
+</svg>
